@@ -7,3 +7,4 @@ A simple c++ opencv face detection
 - sudo chmod +x *
 - debug and add your img file on the facedetection.cpp
 
+# Author: krishpranav
