@@ -5,3 +5,5 @@ A simple c++ opencv face detection
 - git clone https://github.com/krishpranav/opencv-c
 - cd opencv-c
 - sudo chmod +x *
+- debug and add your img file on the facedetection.cpp
+
